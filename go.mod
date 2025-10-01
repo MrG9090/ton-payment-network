@@ -9,7 +9,7 @@ require (
 	github.com/prometheus/client_golang v1.22.0
 	github.com/rs/zerolog v1.34.0
 	github.com/syndtr/goleveldb v1.0.0
-	github.com/xssnick/tonutils-go v1.15.1
+	github.com/xssnick/tonutils-go v1.15.2
 	golang.org/x/crypto v0.42.0
 )
 
@@ -25,7 +25,7 @@ require (
 	github.com/prometheus/client_model v0.6.1 // indirect
 	github.com/prometheus/common v0.62.0 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
-	github.com/xssnick/raptorq v1.2.0 // indirect
+	github.com/xssnick/raptorq v1.3.0 // indirect
 	golang.org/x/sys v0.36.0 // indirect
 	google.golang.org/protobuf v1.36.5 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
