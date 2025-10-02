@@ -59,8 +59,8 @@ github.com/syndtr/goleveldb v1.0.0 h1:fBdIW9lB4Iz0n9khmH8w27SJ3QEJ7+IgjPEwGSZiFd
 github.com/syndtr/goleveldb v1.0.0/go.mod h1:ZVVdQEZoIme9iO1Ch2Jdy24qqXrMMOU6lpPAyBWyWuQ=
 github.com/xssnick/raptorq v1.3.0 h1:3GoaySKMg/i8rbjhIuqjxpTTO2l3Gs2/Gh7k3GAjvGo=
 github.com/xssnick/raptorq v1.3.0/go.mod h1:kgEVVsZv2hP+IeV7C7985KIFsDdvYq2ARW234SBA9Q4=
-github.com/xssnick/tonutils-go v1.15.2 h1:yQeBgp5AY7HhxV9RxLubcKLhR9Ae3h2EEoCvR3Rys1c=
-github.com/xssnick/tonutils-go v1.15.2/go.mod h1:3/B8mS5IWLTd1xbGbFbzRem55oz/Q86HG884bVsTqZ8=
+github.com/xssnick/tonutils-go v1.15.3 h1:9iEHmm87I2IP75nyLiLF9T9xW8Gx+ksgXx43cGaCayg=
+github.com/xssnick/tonutils-go v1.15.3/go.mod h1:3/B8mS5IWLTd1xbGbFbzRem55oz/Q86HG884bVsTqZ8=
 golang.org/x/crypto v0.42.0 h1:chiH31gIWm57EkTXpwnqf8qeuMUi0yekh6mT2AvFlqI=
 golang.org/x/crypto v0.42.0/go.mod h1:4+rDnOTJhQCx2q7/j6rAN5XDw8kPjeaXEUR2eL94ix8=
 golang.org/x/net v0.0.0-20180906233101-161cd47e91fd/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
